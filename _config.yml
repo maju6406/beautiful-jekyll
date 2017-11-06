@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://username.github.io"
+url: "http://maju6406.github.io"
 baseurl: "/beautiful-jekyll"
 
 # If you are building a GitHub project page then use these settings:
@@ -14,10 +14,10 @@ baseurl: "/beautiful-jekyll"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: Hi, I'm Abir
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: This is where you can find all of Abir's stuffs!
 
 # --- Navigation bar options --- #
 
@@ -28,7 +28,7 @@ navbar-links:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Author's home: "http://abirmajumdar.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -55,24 +55,19 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
-  reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
-  steam: yourname     # eg. daattali
-  twitch: yourname    # eg. daattali
-  yelp: yourname      # eg. daattali
+  name: Abir Majumdar
+  email: "abir.majumdar@gmail.com"
+  facebook: majumdar  # eg. daattali
+  github: maju6406    # eg. daattali
+  twitter: beersy   # eg. daattali
+  reddit: maju6406    # eg. daattali
+  google-plus: +AbirMajumdar   # eg. +DeanAttali or 109424658772469020925
+  linkedin: maju6406  # eg. daattali
+  stackoverflow: 4618752/abir-majumdar  # eg. "3943160/daattali"
+  snapchat: maju6406  # eg. daattali
+  instagram: maju6406 # eg. daattali
+  youtube: maju6406   # eg. user/daattali or channel/daattali
+  yelp: maju6406      # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
@@ -85,15 +80,15 @@ footer-links-active:
   reddit: false
   linkedin: false
   xing: false
-  stackoverflow: false
-  snapchat: false
-  instagram: false
-  youtube: false
+  stackoverflow: true
+  snapchat: true
+  instagram: true
+  youtube: true
   spotify: false
   telephone: false
   steam: false
   twitch: false
-  yelp: false
+  yelp: true
 
 # Select which share links to show in posts
 share-links-active:
@@ -104,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "abirmajumdar.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
@@ -130,7 +125,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Los_Angeles"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
