@@ -14,23 +14,22 @@ baseurl: "/beautiful-jekyll"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Hi, I'm Abir
+#title: Hi, I'm Angela
 
 # Short description of your site
-description: This is where you can find all of Abir's stuffs!
+# description: This is where you can find all of Abir's stuffs!
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://abirmajumdar.com"
+  Doterra: "https://www.mydoterra.com/angelamajumdar/#/"
+  BeTheMatch: "https://join.bethematch.org/Waterbear"  
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/Abir_Majumdar_lazers2.png"
+avatar: "/img/pollyannawaterbear_1509510296_628.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -53,19 +52,13 @@ avatar: "/img/Abir_Majumdar_lazers2.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Abir Majumdar
-  email: "abir.majumdar@gmail.com"
-  facebook: majumdar  # eg. daattali
-  github: maju6406    # eg. daattali
-  twitter: beersy   # eg. daattali
-  reddit: maju6406    # eg. daattali
-  google-plus: +AbirMajumdar   # eg. +DeanAttali or 109424658772469020925
+  name: Angela Majumdar
+  email: "pollyannawaterbear@gmail.com"
+  facebook: pollyannatardigrade  # eg. daattali
+  twitter: beniceangie   # eg. daattali
   linkedin: maju6406  # eg. daattali
-  stackoverflow: 4618752/abir-majumdar  # eg. "3943160/daattali"
-  snapchat: maju6406  # eg. daattali
-  instagram: maju6406 # eg. daattali
-  youtube: maju6406   # eg. user/daattali or channel/daattali
-  yelp: maju6406      # eg. daattali
+  snapchat: angelamajumdar  # eg. daattali
+  instagram: waterbear.cares # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
@@ -74,19 +67,19 @@ footer-links-active:
   email: true
   twitter: true
   google-plus: false
-  github: true
+  github: false
   reddit: false
   linkedin: false
   xing: false
-  stackoverflow: true
+  stackoverflow: false
   snapchat: true
   instagram: true
-  youtube: true
+  youtube: false
   spotify: false
   telephone: false
   steam: false
   twitch: false
-  yelp: true
+  yelp: false
 
 # Select which share links to show in posts
 share-links-active:
@@ -97,7 +90,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "abirmajumdar.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "angelamajumdar.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
