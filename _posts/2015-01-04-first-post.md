@@ -1,8 +1,7 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
-tags: [random, exciting-stuff]
+title: My new Etsy Shop!
+tags: [etsy]
 ---
 
-This is my first post, how exciting!
+Check out my new etsy shop at [http://proudpollyanna.com](proudpollyanna.com)!
